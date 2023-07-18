@@ -1,0 +1,2 @@
+Promise is something that gives you a value some time in the future
+Backend creates the promise and we as front end developers use it. 
